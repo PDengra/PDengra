@@ -10,6 +10,7 @@
 ### 🧠 Sobre mí
 
 Técnico en Sistemas/Soporte IT con experiencia en Linux/Windows, monitorización, redes, ciberseguridad y mantenimiento de hardware/software.
+
 ---
 
 ### ⚙️ Tecnologías y herramientas que uso
