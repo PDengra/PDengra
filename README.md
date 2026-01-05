@@ -23,6 +23,6 @@ Técnico en Sistemas/Soporte IT con experiencia en Linux/Windows, monitorizació
 ### 🌐 Encuéntrame en:
 
 <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/PDengra"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/pablo-dengra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
