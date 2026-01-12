@@ -16,7 +16,7 @@ Técnico en Sistemas/Soporte IT con experiencia en Linux/Windows, monitorizació
 ### ⚙️ Tecnologías y herramientas que uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell,python,js,php,html,css,github,vscode,docker,c,prometheus,grafana,bootstrap,mysql,kali,nginx,kubernetes,codeigniter" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell,python,js,php,html,css,github,vscode,docker,c,prometheus,grafana,bootstrap,mysql,kali,nginx,kubernetes,laravel,nodejs"/>
 </p>
 
 ---
