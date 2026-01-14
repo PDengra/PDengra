@@ -7,13 +7,13 @@
 
 ---
 
-### 🧠 Sobre mí
+### 🧠 Sobre mí:
 
 Técnico en Sistemas/Soporte IT con experiencia en Linux/Windows, monitorización, redes, ciberseguridad y mantenimiento de hardware/software.
 
 ---
 
-### ⚙️ Tecnologías y herramientas que uso
+### ⚙️ Tecnologías y herramientas que uso:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell,python,js,php,html,css,git,github,vscode,docker,c,prometheus,grafana,bootstrap,mysql,kali,nginx,kubernetes,laravel,nodejs,wordpress"/>
