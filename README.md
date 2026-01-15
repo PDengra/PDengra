@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/PDengra/PDengra/blob/main/banner.png?raw=true" alt="Banner Pablo Dengra Maldonado" width="100%"/>
+  <img src="https://github.com/PDengra/PDengra/blob/main/foto_rectangular_linkedin.jpeg?raw=true" alt="Banner Pablo Dengra Maldonado" width="100%"/>
 </p>
 
 <h1 align="center">💻 Pablo Dengra Maldonado 💾</h1>
